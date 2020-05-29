@@ -1,0 +1,100 @@
+body {
+	margin: 0;
+	background-image: url(VID_20191123_102945.gif);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+.d-flex {
+	display: flex;
+}
+.text_center {
+	text-align: center;
+}
+.text {
+	font-family: Arial;
+	color: white;
+	font-size: 15px;
+}
+.m_auto {
+	margin-right: auto;
+	margin-left: auto;
+}
+a {
+	text-decoration: none;
+}
+.ml_auto {
+	margin-left: auto;
+}
+.logo_div {
+	background-color: black;
+}
+.logo_panel {
+	width: 400px;
+}
+.logo_img {
+	width: 125px;
+	height: 75px;
+}
+.links {
+	color: white;
+	text-decoration: none;
+	padding-top: 25px;
+}
+.div {
+	height: 180px;
+	width: 900px;
+	margin-top: 400px;
+	padding-top: 20px;
+}
+.box_1 {
+	height: 150px;
+	width: 200px;
+	background-image: url(https://pm1.narvii.com/6775/e0fabab05e0391261dc0dc9870241df7e9e781ffv2_hq.jpg); 
+	transition: 0.5s;
+	background-size: 110% 110%;
+}
+.box_1:hover {
+	height: 200px;
+	width: 250px;
+	background-image: url(https://pm1.narvii.com/6775/e0fabab05e0391261dc0dc9870241df7e9e781ffv2_hq.jpg);
+	background-size: 100% 100%;
+}
+.box_2 {
+	height: 150px;
+	width: 200px;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMpKDAZ3X6i465kLmV3M2qpfWk0NC22xdT-K240VGP4_mZQ6__&s); 
+	transition: 0.5s;
+	background-size: 110% 110%;
+}
+.box_2:hover {
+	height: 200px;
+	width: 250px;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMpKDAZ3X6i465kLmV3M2qpfWk0NC22xdT-K240VGP4_mZQ6__&s);
+	background-size: 100% 100%;
+}
+.box_3 {
+	height: 150px;
+	width: 200px;
+	background-image: url(https://st03.kakprosto.ru/tumb/680/images/article/2019/2/14/334011_5c6581756559f5c658175655d7.jpeg); 
+	transition: 0.5s;
+	background-size: 110% 110%;
+}
+.box_3:hover {
+	height: 200px;
+	width: 250px;
+	background-image: url(https://st03.kakprosto.ru/tumb/680/images/article/2019/2/14/334011_5c6581756559f5c658175655d7.jpeg);
+	background-size: 100% 100%;
+}
+.box_4 {
+	height: 150px;
+	width: 200px;
+	background-image: url(https://pm1.narvii.com/6775/e0fabab05e0391261dc0dc9870241df7e9e781ffv2_hq.jpg); 
+	transition: 0.5s;
+	background-size: 110% 110%;
+}
+.box_4:hover {
+	height: 200px;
+	width: 250px;
+	background-image: url(https://pm1.narvii.com/6775/e0fabab05e0391261dc0dc9870241df7e9e781ffv2_hq.jpg);
+	background-size: 100% 100%;
+}

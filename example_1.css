@@ -1,0 +1,100 @@
+body {
+	font-family: Arial;
+	margin: 0;
+}
+.d-flex {
+	display: flex;
+}
+.div_info {
+	width: 200px;
+	text-align: center;
+	margin-top: 16px;
+}
+.text_info {
+	color: #888888;
+	font-size: 12px;
+	margin-top: 5px;
+}
+.border {
+	border: solid 1px;
+}
+.ml_auto {
+	margin-left: auto;
+}
+.ml_1 {
+	margin-left: 16px;
+}
+.m_1 {
+	margin: 8px 10px;
+}
+.ml {
+	margin-left: 10px;
+}
+.mt_1 {
+	margin-top: 10px;
+}
+.ml_3 {
+	margin-left: 48px;
+}
+.dialog {
+	margin-left: 22px;
+	font-style: italic;
+}
+.m_auto {
+	margin-right: auto;
+	margin-left: auto;
+}
+.logo_div {
+	background-color: black;
+}
+.logo_panel {
+	width: 400px;
+}
+.logo_img {
+	width: 125px;
+	height: 75px;
+}
+.links {
+	color: white;
+	text-decoration: none;
+	padding-top: 25px;
+}
+.img {
+	width: 300px;
+	height: 350px;
+}
+.info {
+	width: 248px;
+	height: 150px;
+	margin-left: 2px;
+}
+p {
+	margin: 0;
+	margin-left: 10px;
+	font-weight: 520;
+}
+i {
+	color: red;
+}
+li {
+	margin:15px 0;
+	font-style: italic;
+}
+.Quotes_left {
+	margin-left: 25px;
+	margin-bottom: 8px;
+}
+.Quotes_right {
+	margin-left: 10px;
+	margin-top: 25px;
+}
+summary {
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+	color: red
+}

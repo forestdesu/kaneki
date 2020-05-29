@@ -1,0 +1,85 @@
+.d-flex {
+	display: flex;
+}
+.text_center {
+	text-align: center;
+}
+.body {
+	background-image: url(body.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	margin: 0;
+}
+.m_auto {
+	margin-right: auto;
+	margin-left: auto;
+}
+.ml_auto {
+	margin-left: auto;
+}
+.mr_auto {
+	margin-right: auto;
+}
+.logo_div {
+	background-color: black;
+}
+.logo_panel {
+	width: 400px;
+}
+.logo_img {
+	width: 125px;
+	height: 75px;
+}
+.links {
+	color: white;
+	text-decoration: none;
+	padding-top: 25px;
+}
+.video {
+	width: 800px;
+	height: 500px;
+}
+.content {
+	height: 700px;
+	width: 850px;
+	border-radius: 15px;
+	background-color: white;
+	padding-top: 10px;
+}
+.img_logo {
+	width: 900px;
+}
+.text {
+	font-family: Arial;
+	color: black;
+	font-size: 25px;
+	text-decoration: none;
+	margin: 0;
+}
+.div_sezon1  {
+	text-align: center;
+	width: 350px;
+	padding-top: 25px;
+	padding-left: 150px;
+}
+.div_sezon  {
+	text-align: center;
+	width: 500px;
+	padding-top: 25px;
+}
+.ml_auto {
+	margin-left: auto;
+}
+.btn {
+	border: solid 1px black;
+	font-family: Arial;
+	color: black;
+	font-size: 25px;
+	padding: 15px;
+	border-radius: 25px;
+	margin: 0;
+}
+.text_sezon {
+	text-align: center;
+	margin-top: 15px;
+}
